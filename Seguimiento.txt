@@ -1,0 +1,6 @@
+Usando el Git
+1.He creado un folder de trabajo (repositorio)
+2.He creado el archivo al que le trabajaremos las versiones.
+3.Inicialmente hay que indicar a Git cual o cuales archivos manejaremos en el area de preparacion. Git Add
+4.Cuando se tienen cambios importantes, se realiza un commit -m, para indicar a Git que queremos una versión.
+5. Se repite el paso 3 y 4 cuantas veces sea necesario.
